@@ -10,7 +10,7 @@
     "url": "git@github.com:remy/mit-license.git"
   },
   "engines": {
-    "node": "14.x"
+    "node": ">=20"
   },
   "author": "Remy Sharp <remy@leftlogic.com> (http://remysharp.com/)",
   "scripts": {
@@ -38,7 +38,7 @@
     "html-text": "^1.0.1",
     "load-json-file": "^7.0.1",
     "path-exists": "^5.0.0",
-    "postcss-middleware": "^1.1.4",
+    "postcss-middleware": "^0.0.1",
     "postcss-preset-env": "^11.1.1",
     "read-pkg": "^10.0.0",
     "serve-favicon": "^2.5.1",
@@ -54,7 +54,7 @@
     "has-flag": "^5.0.1",
     "nodemon": "^3.1.11",
     "path-extra": "^4.3.0",
-    "xo": "^1.2.3"
+    "xo": "^0.60.0"
   },
   "xo": {
     "space": 2,
