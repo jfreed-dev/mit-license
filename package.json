@@ -32,7 +32,7 @@
     "create-html-element": "^4.0.1",
     "ejs": "^3.1.10",
     "escape-goat": "^4.0.0",
-    "express": "^4.22.0",
+    "express": "^4.22.2",
     "express-minify": "^1.0.0",
     "gravatar-url": "^4.0.1",
     "html-text": "^1.0.1",
