@@ -1,8 +1,34 @@
-#### Before you create your license page
+## Summary
 
-Hosting costs $7 a month. I need help, so please donate a few months to keep this service going.
+<!-- Brief description of changes -->
 
-I've already had support to run the domain until 2032, but the hosting needs help too.
+## Changes
 
-**[Please donate and keep this project running](https://www.paypal.me/rem)**
+<!-- List the changes made -->
+-
 
+## Type of Change
+
+- [ ] Bug fix (non-breaking change that fixes an issue)
+- [ ] New feature (non-breaking change that adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] Documentation update
+- [ ] New license user (adding a new user JSON file)
+
+## Testing
+
+<!-- How were these changes tested? -->
+- [ ] `npm test` passes (linting)
+- [ ] Manual testing completed
+- [ ] License renders correctly at mit-license.org
+
+## Checklist
+
+- [ ] My code follows the project style guidelines
+- [ ] I have performed a self-review of my code
+- [ ] I have added my user JSON file to the `users/` directory (if applicable)
+- [ ] My JSON file is valid and follows the schema
+
+## Related Issues
+
+<!-- Link related issues: Fixes #123, Closes #456 -->
